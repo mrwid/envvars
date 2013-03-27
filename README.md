@@ -12,3 +12,12 @@ windows自带的环境变量设置工具设置PATH这样的变量时不方便，
 	编写语言：C/C++，STL, win32 api
 	构建工具：Visual C++ 6.0或以上
 	技术支持：[X86编程之家](http://www.x86pro.com)
+
+	
+##Fork说明##
+
+该项目 fork 自 https://github.com/waiting/envvars , 由wid负责二次维护。
+
+维护: wid
+
+博客: http://www.cnblogs.com/mr-wid/
